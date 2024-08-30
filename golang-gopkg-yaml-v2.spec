@@ -6,7 +6,7 @@
 # https://github.com/go-yaml/yaml
 %global goipath		gopkg.in/yaml.v2
 %global forgeurl	https://github.com/go-yaml/yaml
-Version:			2.4.0
+Version:			3.0.1
 
 %gometa
 
